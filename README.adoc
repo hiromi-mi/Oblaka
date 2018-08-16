@@ -1,0 +1,16 @@
+Oblaka Regular Expression Engine
+================================
+hiromi-mi <hiromimi hyphen mi at cat dot zaq dot jp>
+
+What is Oblaka?
+---------------
+
+Oblaka is a regular expression engine.
+'STILL ALPHA'
+
+Moreover, in Russian Oblaka means "cloud".
+
+License
+--------
+
+This software is licensed under BSD 2-Clause License.
