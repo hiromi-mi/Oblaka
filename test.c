@@ -1,6 +1,6 @@
+#include "oblaka.h"
 #include <assert.h>
 #include <locale.h>
-#include "oblaka.h"
 
 int main() {
    setlocale(LC_ALL, "");

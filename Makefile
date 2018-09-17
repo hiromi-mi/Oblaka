@@ -1,8 +1,9 @@
 CC = clang
 CFLAGS = -g
 TARGET = oblaka
-oblaka:
+oblaka:	oblaka.h
+	$(CC) $(CFLAGS) $@.c -o $@
 
 test:	test.c
-	$(CC) $@.c -o $@
+	$(CC) $(CFLAGS) $@.c -o $@
 	./$@
